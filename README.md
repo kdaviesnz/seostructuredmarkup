@@ -30,7 +30,7 @@ vendor/
 Via Composer
 
 ``` bash
-$ composer require kdaviesnz/seooptimize
+$ composer require kdaviesnz/seostructuredmarkup
 ```
 
 ## Usage

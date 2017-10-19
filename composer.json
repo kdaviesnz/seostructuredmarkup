@@ -1,19 +1,19 @@
 {
-    "name": "kdaviesnz/seooptimize",
+    "name": "kdaviesnz/seostructuredmarkup",
     "type": "component",
-    "description": "SEO keywords tool",
+    "description": "SEO structured markup",
     "minimum-stability": "dev",
     "keywords": [
         "keywords",
         "seo"
     ],
-    "homepage": "https://github.com/kdaviesnz/seooptimize/",
+    "homepage": "https://github.com/kdaviesnz/seostructuredmarkup/",
     "license": "MIT",
     "authors": [
         {
             "name": ":kdavies",
             "email": "kdaviesnz@gmail.com",
-            "homepage": "https://github.com/kdaviesnz/seooptimize/",
+            "homepage": "https://github.com/kdaviesnz/seostructuredmarkup/",
             "role": "Developer"
         }
     ],
@@ -27,12 +27,12 @@
     },
     "autoload": {
         "psr-4": {
-            "kdaviesnz\\seooptimize\\": "src"
+            "kdaviesnz\\seostructuredmarkup\\": "src"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "kdaviesnz\\seooptimize\\": "tests"
+            "kdaviesnz\\seostructuredmarkup\\": "tests"
         }
     },
     "scripts": {
